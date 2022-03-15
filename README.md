@@ -40,5 +40,3 @@ npm run test
 - [Node](https://nodejs.org/en/)
 
 - [React](https://reactjs.org/)
-
-- [Axios](axios-http.com)
