@@ -1,4 +1,4 @@
-# React Typescript Boilerplate
+# React Typescript Boilerplate/Base
 
 ## Prerequisites
 
@@ -11,7 +11,7 @@ Node (v14.18.1 is recommended)
 To clone repository first you have to install git
 
 ```
-git clone https://github.com/oreoseenoevil/ts-react-boilerplate.git
+git clone https://github.com/oreoseenoevil/ts-react-base.git
 ```
 
 ## Installation
